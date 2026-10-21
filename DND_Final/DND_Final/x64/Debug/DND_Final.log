@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (DND_Final.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Evil.cpp
+  main.cpp
+  NPC.cpp
+C:\Users\user1\Desktop\ВЫС_ЯЗК\DND_Final\DND_Final\NPC.cpp(12,18): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\user1\Desktop\ВЫС_ЯЗК\DND_Final\DND_Final\NPC.cpp(13,18): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\user1\Desktop\ВЫС_ЯЗК\DND_Final\DND_Final\NPC.cpp(14,17): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+  Paladin.cpp
+  Player.cpp
+  Warrior.cpp
+  Wizard.cpp
+  Создание кода...
+  DND_Final.vcxproj -> C:\Users\user1\Desktop\ВЫС_ЯЗК\DND_Final\x64\Debug\DND_cplus.exe
